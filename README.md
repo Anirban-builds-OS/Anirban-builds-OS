@@ -580,7 +580,7 @@ Software engineering is more than writing code—it's about solving problems, co
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirban-builds-OS&theme=github_dark"/>
 
 </p>
 
@@ -590,9 +590,9 @@ Software engineering is more than writing code—it's about solving problems, co
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anirban-builds-OS&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anirban-builds-OS&theme=github_dark"/>
 
 </p>
 
@@ -602,9 +602,9 @@ Software engineering is more than writing code—it's about solving problems, co
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirban-builds-OS&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=github_dark&utcOffset=5.5"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anirban-builds-OS&theme=github_dark&utcOffset=5.5"/>
 
 </p>
 
