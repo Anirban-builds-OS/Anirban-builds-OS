@@ -7,7 +7,7 @@
 
 # Anirban Dey
 
-### Computer Science Undergraduate • Software Engineering Enthusiast • AI & Machine Learning Learner
+### Computer Science Undergraduate • Software Engineering Enthusiast • AI/ML
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=2500&color=4FA3FF&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real-world+problems.;Learning+something+new+every+day.;Exploring+AI%2C+Machine+Learning+%26+Modern+Web+Development." />
 
