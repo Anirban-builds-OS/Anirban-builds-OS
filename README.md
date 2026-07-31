@@ -188,17 +188,12 @@ Currently, I'm focused on sharpening my problem-solving skills, learning modern 
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anirban-builds-OS&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Anirban-builds-OS&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirban-builds-OS&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
@@ -206,9 +201,7 @@ Currently, I'm focused on sharpening my problem-solving skills, learning modern 
 # 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anirban-builds-OS&theme=github-dark&hide_border=true" />
 </p>
 
 ---
