@@ -188,12 +188,11 @@ Currently, I'm focused on sharpening my problem-solving skills, learning modern 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anirban-builds-OS&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
   <img height="170" src="https://streak-stats.demolab.com?user=Anirban-builds-OS&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirban-builds-OS&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anirban-builds-OS&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -576,15 +575,12 @@ Software engineering is more than writing code—it's about solving problems, co
 
 ---
 
-# 📈 GitHub Contribution
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anirban-builds-OS&theme=github_dark"/>
-
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anirban-builds-OS&show_icons=true&theme=github_dark&hide_border=true"/>
 </p>
 
----
 
 # 📊 Development Overview
 
@@ -598,14 +594,10 @@ Software engineering is more than writing code—it's about solving problems, co
 
 ---
 
-# ⚡ Productivity
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anirban-builds-OS&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anirban-builds-OS&theme=github_dark&utcOffset=5.5"/>
-
+  <img src="https://raw.githubusercontent.com/Anirban-builds-OS/Anirban-builds-OS/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
